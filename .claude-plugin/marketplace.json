@@ -1,0 +1,29 @@
+{
+  "name": "formularios-sociedades-de-capital",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Sociedades de capital: constitución, capital, administradores y cuentas · España (139 formularios). Para el día a día societario de las SL y SA fuera de las juntas: constitución y estatutos, nombramiento, cese y renuncia de administradores, poderes, aumentos y reducciones de capital, transmisión de participaciones y acciones, cuentas anuales y auditor, disolución y liquidación, y los escritos al Registro Mercantil. Las juntas y actas están en `formularios-juntas-y-actas-de-sociedades`. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-sociedades-de-capital",
+      "source": "./",
+      "description": "Sociedades de capital: constitución, capital, administradores y cuentas · España (139 formularios). Para el día a día societario de las SL y SA fuera de las juntas: constitución y estatutos, nombramiento, cese y renuncia de administradores, poderes, aumentos y reducciones de capital, transmisión de participaciones y acciones, cuentas anuales y auditor, disolución y liquidación, y los escritos al Registro Mercantil. Las juntas y actas están en `formularios-juntas-y-actas-de-sociedades`. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "mercantil",
+        "sociedades"
+      ]
+    }
+  ]
+}
